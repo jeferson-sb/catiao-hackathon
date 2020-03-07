@@ -1,8 +1,8 @@
-# Catiao
+# C.A.T.I.A.O
 
 ## Sobre o projeto
 
-Carteira com inteligência artificial online
+Carteira com inteligência artificial online.
 
 Surgiu-se a ideia de uma startup de auxiliar as pessoas em monitorar a carteira de vacina.
 Com isso, auxiliamos na redução de doenças epidemiologicas.
@@ -26,7 +26,7 @@ Desenvolvemos a ideia em um dia, e apartir daí estamos desenvolvendo o produto 
 
 ![alt text](.github/interface-1.jpg)
 
-[Veja todas interfaces e prótipo](https://www.figma.com/proto/2S387jGqArf6LhbimXxfZ3/Hackathon-AFZS?node-id=1%3A4&scaling=scale-down)
+[Veja todas interfaces e prótotipo](https://www.figma.com/proto/2S387jGqArf6LhbimXxfZ3/Hackathon-AFZS?node-id=1%3A4&scaling=scale-down)
 
 ## Demo
 
