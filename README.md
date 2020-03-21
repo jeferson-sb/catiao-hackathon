@@ -31,3 +31,6 @@ Desenvolvemos a ideia em um dia, e apartir daí estamos desenvolvendo o produto 
 ## Demo
 
 [Website Catiao](http://catiao.epizy.com)
+
+## Pitch(Vídeo)
+[https://www.youtube.com/watch?v=2as6LbyzFYQ](https://www.youtube.com/watch?v=2as6LbyzFYQ)
